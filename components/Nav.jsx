@@ -9,7 +9,6 @@ const links = [
   { name: "skills", path: "/skills" },
   { name: "about", path: "/about" },
   { name: "contact", path: "/contact" },
-  // { name: "resume", path: "/resume" },
 ];
 const Nav = () => {
   // track current path
